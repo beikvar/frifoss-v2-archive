@@ -1,0 +1,1 @@
+<?php $img="https://img.frifoss.repl.co/";$g="https://g.frifoss.repl.co/"; ?>

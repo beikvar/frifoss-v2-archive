@@ -1,0 +1,1 @@
+<?php include "db.php";$r1=count($games)-1;$a=rand(0,$r1);header("location: info.php?id=".$games[$a][0]) ?>
